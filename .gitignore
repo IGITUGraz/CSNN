@@ -1,0 +1,65 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+.venv3/
+.venv2/
+.venv36/
+.venv37/
+.venv38/
+.venv39/
+.venv310/
+.python-version
+pip-selfcheck.json
+
+# IDE or code editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.suo
+*.user
+*.sln.docstates
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+*.json
+
+# Compiled Python modules
+*.pyc
+*.pyo
+*.pyd
+
+# Dependency directories
+lib/
+lib64/
+__pycache__/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.egg-info
+.eggs/
+eggs/
+parts/
+bin/
+var
