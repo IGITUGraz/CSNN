@@ -1,19 +1,20 @@
-# Context-Dependent Computations in Spiking Neural Networks with Apical Modulation
+## Context-Dependent Computations in Spiking Neural Networks with Apical Modulation
 
-#### Authors: Romain Ferrand, Maximilian Baronig, Thomas Limbacher and Robert Legenstein [link](https://doi.org/10.1007/978-3-031-44207-0_32)
+Authors: Romain Ferrand, Maximilian Baronig, Thomas Limbacher and Robert Legenstein 
+[paper link](https://doi.org/10.1007/978-3-031-44207-0_32)
 
 
-## Abstract
+### Abstract
 
 This paper explores the integration of bottom-up and top-down information in neocortical pyramidal neurons, highlighting its importance for cortical computations. We propose a simple spiking neuron model that captures the properties of top-down modulated activity. To investigate the impact of this model on context-dependent computations, we evaluate recurrently connected networks of such neurons. Our results demonstrate the enhanced capability of spike-based context-dependent computations.
 
-### Keywords
+#### Keywords
 
 Spiking Neural Networks, Pyramidal Neurons, Apical Modulation, Context-Dependent Computations
 
-## How to Install and Run the Program
+### How to Install and Run the Program
 
-### Required Pip Package
+#### Required Pip Package
 
 To run the simulation program used in this research, you will need to install the following Python package:
 - pytorch
@@ -21,7 +22,7 @@ To run the simulation program used in this research, you will need to install th
 - tonic
 
 
-### Run 
+#### Run 
 ```bash
 $ python run.py --help
 usage: CSNN [-h] [--seed SEED] [--nb_worker NB_WORKER] [--data_path DATA_PATH] [--batch_size BATCH_SIZE] [--dataset {dvsgesture,shd}] [--seq_len SEQ_LEN]
