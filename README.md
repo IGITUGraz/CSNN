@@ -1,5 +1,7 @@
 # Context-Dependent Computations in Spiking Neural Networks with Apical Modulation
 
+WIP
+
 ## Abstract
 
 This paper explores the integration of bottom-up and top-down information in neocortical pyramidal neurons, highlighting its importance for cortical computations. We propose a simple spiking neuron model that captures the properties of top-down modulated activity. To investigate the impact of this model on context-dependent computations, we evaluate recurrently connected networks of such neurons. Our results demonstrate the enhanced capability of spike-based context-dependent computations.
