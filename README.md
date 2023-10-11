@@ -1,6 +1,6 @@
 # Context-Dependent Computations in Spiking Neural Networks with Apical Modulation
 
-[link](https://doi.org/10.1007/978-3-031-44207-0_32)
+#### Authors: Romain Ferrand, Maximilian Baronig, Thomas Limbacher and Robert Legenstein [link](https://doi.org/10.1007/978-3-031-44207-0_32)
 
 
 ## Abstract
