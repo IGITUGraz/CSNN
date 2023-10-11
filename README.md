@@ -1,7 +1,6 @@
 # Context-Dependent Computations in Spiking Neural Networks with Apical Modulation
 
-WIP
-[paper link](https://doi.org/10.1007/978-3-031-44207-0_32)
+[link](https://doi.org/10.1007/978-3-031-44207-0_32)
 
 
 ## Abstract
