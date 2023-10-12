@@ -4,7 +4,7 @@ from torch.nn.parameter import Parameter
 import torch.nn.functional as F
 
 from .initializer import center_fluctuation_init_
-from .base_cell import BaseSpikingCell
+from .base_cell import BaseSpikingCell, autapse_hook
 from .li import LILayer
 
 class LIFState(NamedTuple):
