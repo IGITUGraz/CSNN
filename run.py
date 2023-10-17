@@ -199,7 +199,7 @@ def fit_and_test(
                 epoch_loss = 0
     if test_dataloader is not None:
         with torch.no_grad():
-            for batch in tqdm(val_dataloader, desc="Testing epoch:"):
+            for batch in tqdm(test_dataloader, desc="Testing epoch:"):
                 x, c, targets, block_idx = batch
                 x = x.to(device)
                 c = c.to(device)
